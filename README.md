@@ -2,9 +2,6 @@
 
 An Arduino-based smart aquarium monitoring system that helps track essential water conditions to ensure a healthy environment for aquatic life.
 
-## Demo
-[Add project images, video, or live demo link here]
-
 ## Tech Stack
 - Arduino UNO
 - Arduino IDE (C/C++)
