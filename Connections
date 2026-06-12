@@ -1,0 +1,27 @@
+DS18B20:
+
+Yellow → Pin 2
+
+Red → 5V
+
+Black → GND
+
+4.7kΩ resistor between Data & 5V
+
+TDS Sensor:
+
+Signal → A0
+
+VCC → 5V
+
+GND → GND
+
+LCD I2C:
+
+SDA → A4
+
+SCL → A5
+
+VCC → 5V
+
+GND → GND
